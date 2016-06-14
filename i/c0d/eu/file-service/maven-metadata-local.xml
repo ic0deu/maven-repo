@@ -3,11 +3,12 @@
   <groupId>i.c0d.eu</groupId>
   <artifactId>file-service</artifactId>
   <versioning>
-    <release>1.0.8</release>
+    <release>1.0.9</release>
     <versions>
       <version>1.0.7</version>
       <version>1.0.8</version>
+      <version>1.0.9</version>
     </versions>
-    <lastUpdated>20160613205717</lastUpdated>
+    <lastUpdated>20160614104647</lastUpdated>
   </versioning>
 </metadata>
